@@ -1,2 +1,2 @@
 # instagram
-Está Página fou desenvolvida por motivos academicos.
+Está Página foi desenvolvida por motivos academicos.
